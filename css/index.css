@@ -1,0 +1,74 @@
+p{
+    color: black;
+    font-family: Arial;
+    line-height: 1.8em;
+}
+h1,h2,h3,h4{
+    font-family: "Times New Roman";
+    margin: 0px;
+}
+ul{
+    font-family: "Times New Roman";
+    font-size: 2ex;
+}
+footer{
+    background-color: #999;
+    text-align: center;
+}
+.text{
+    font-size: 1.5em;
+}
+a:link
+{
+    color: red;
+    background-color: black;
+    border: 2px solid white;
+}
+a:visited
+{
+    color: white;
+    background-color: brown;
+    border: 2px solid white;
+}
+a:hover
+{
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}
+p:first-line
+{
+    font-family: “Tahoma”;
+    font-weight: bolder;
+    background-color: #FFFFCC;
+}
+.navone:link {
+    text-decoration: underline;
+    color: #FFF;
+    background: #008;
+    font-size:30px;
+}
+.navone:visited {
+    text-decoration: none;
+    color: #FFF;
+    background: #06a;
+}
+.navone:hover {
+    text-decoration: none;
+    color: #FFF;
+    background: #000;
+}
+.navone:focus {
+    text-decoration: none;
+    color: #FFF;
+    background: #06b;
+}
+.navone:active {
+    text-decoration: underline;
+    color: #FFF;
+}
+div{
+    text-align: left;
+    text-indent: 2em;
+    text-transform: uppercase;
+}
